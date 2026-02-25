@@ -20,13 +20,19 @@ The objective was to clean raw data, remove duplicates, standardize fields, and 
 📈 Key Analysis & Results
 
 🔹 Year-wise Layoffs
-![Yearly Layoffs](screenshots/yearby_layoffs.png)
+<p align="center">
+  <img src="screenshots/yearby_layoffs.png" width="600">
+</p>
 
 🔹 Rolling Total Trend
-![Rolling Total](screenshots/rolling_total.png)
+<p align="center">
+  <img src="screenshots/rolling_total.png" width="600">
+</p>
 
 🔹 Top 5 Companies Per Year
-![Top 5 Per Year](screenshots/top5_per_year.png)
+<p align="center">
+  <img src="screenshots/top5_per_year.png" width="600">
+</p>
 
 🔹 Country-wise Layoffs
 <p align="center">
@@ -34,10 +40,14 @@ The objective was to clean raw data, remove duplicates, standardize fields, and 
 </p>
 
 🔹 Industry-wise Layoffs
-![Industry Analysis](screenshots/industry_analysis.png)
+<p align="center">
+  <img src="screenshots/industry_analysis.png" width="600">
+</p>
 
 🔹 Top Companies Overall
-![Top Companies Overall](screenshots/top_companies_overall.png)
+<p align="center">
+  <img src="screenshots/top_companies_overall.png" width="600">
+</p>
 
 ---
 💡 Key Insights
@@ -52,5 +62,6 @@ The objective was to clean raw data, remove duplicates, standardize fields, and 
 📂 Dataset
 
 Public workforce layoff dataset (43,264 records).
+
 
 
