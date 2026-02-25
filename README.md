@@ -29,7 +29,9 @@ The objective was to clean raw data, remove duplicates, standardize fields, and 
 ![Top 5 Per Year](screenshots/top5_per_year.png)
 
 🔹 Country-wise Layoffs
-![Country Analysis](screenshots/country_analysis.png)
+<p align="center">
+  <img src="screenshots/country_analysis.png" width="600">
+</p>
 
 🔹 Industry-wise Layoffs
 ![Industry Analysis](screenshots/industry_analysis.png)
@@ -50,4 +52,5 @@ The objective was to clean raw data, remove duplicates, standardize fields, and 
 📂 Dataset
 
 Public workforce layoff dataset (43,264 records).
+
 
