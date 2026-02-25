@@ -20,7 +20,7 @@ The objective was to clean raw data, remove duplicates, standardize fields, and 
 📈 Key Analysis & Results
 
 🔹 Year-wise Layoffs
-![Yearly Layoffs](screenshots/yearly_layoffs.png)
+![Yearly Layoffs](screenshots/yearby_layoffs.png)
 
 🔹 Rolling Total Trend
 ![Rolling Total](screenshots/rolling_total.png)
@@ -48,4 +48,5 @@ The objective was to clean raw data, remove duplicates, standardize fields, and 
 ---
 
 📂 Dataset
+
 Public workforce layoff dataset (43,264 records).
